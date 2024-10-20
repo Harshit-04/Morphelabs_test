@@ -1,0 +1,5 @@
+{
+    "files.participants.timeout": 14400,
+    "screencastMode.keyboardOverlayTimeout": 800,
+    "diffEditor.maxComputationTime": 14400
+}
